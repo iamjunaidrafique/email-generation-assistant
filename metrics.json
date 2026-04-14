@@ -1,0 +1,5 @@
+{
+  "metric_1": "Relevance Score: measures how relevant the output is to the prompt.",
+  "metric_2": "Accuracy Score: checks factual correctness.",
+  "metric_3": "Clarity Score: evaluates readability and structure."
+}

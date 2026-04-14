@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "input": "Sample input 1",
+    "output": "Sample output 1",
+    "scores": {
+      "relevance": 4,
+      "accuracy": 5,
+      "clarity": 4
+    }
+  },
+  {
+    "id": 2,
+    "input": "Sample input 2",
+    "output": "Sample output 2",
+    "scores": {
+      "relevance": 3,
+      "accuracy": 4,
+      "clarity": 3
+    }
+  }
+]
